@@ -241,6 +241,7 @@
 			files = (
 			);
 			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/BadgeSwift.framework",
 			);
 			name = Carthage;
 			outputPaths = (
